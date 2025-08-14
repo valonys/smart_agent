@@ -1,0 +1,9 @@
+streamlit==1.38.0
+sqlalchemy>=2.0.43
+psycopg2-binary>=2.9.10
+groq>=0.31.0
+pdfplumber>=0.11.7
+pypdf2>=3.0.1
+pillow==10.4.0
+python-dotenv>=1.1.1
+numpy>=2.3.2
