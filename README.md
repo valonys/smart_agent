@@ -30,7 +30,7 @@ An AI-powered expense processing application built with Streamlit and PostgreSQL
 
 2. **Install dependencies**
    ```bash
-   pip install -e .
+   pip install -r requirements.txt
    ```
 
 3. **Set up environment variables**
@@ -108,7 +108,7 @@ An AI-powered expense processing application built with Streamlit and PostgreSQL
 ```
 smart-expense-agent/
 ├── app.py                    # Main Streamlit application
-├── pyproject.toml           # Python dependencies
+├── requirements.txt          # Python dependencies
 ├── README.md                # This file
 ├── LICENSE                  # MIT License
 ├── .streamlit/
@@ -124,11 +124,11 @@ smart-expense-agent/
 
 ### Setting up Development Environment
 
-1. **Clone and install in development mode**
+1. **Clone and install dependencies**
    ```bash
    git clone https://github.com/valonys/smart_agent.git
    cd smart_agent
-   pip install -e ".[dev]"
+   pip install -r requirements.txt
    ```
 
 2. **Run tests**
