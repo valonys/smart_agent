@@ -1,4 +1,4 @@
-# Smart Expense Agent - Replit Configuration
+# Smart Expense Agent 
 
 ## Project Overview
 
