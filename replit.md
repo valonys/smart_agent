@@ -110,7 +110,7 @@ The application is designed to be deployed on various platforms:
 For technical support or questions:
 - **Documentation**: README.md and DEPLOYMENT_GUIDE.md
 - **Issues**: GitHub repository issues
-- **Contact**: team@smartexpenseagent.com
+- **Contact**: ataliba.miguel@valonylabs.com
 
 ---
 
